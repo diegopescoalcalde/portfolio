@@ -15,7 +15,7 @@ My credentials include a Mechanical Engineer graduation in Federal University of
 
 **Links:**
 * [Blog]
-* [LinkedIn](https://www.linkedin.com/in/diego-pesco-alcalde-b914b422/)
+* [LinkedIn](https://www.linkedin.com/in/diegopesco/)
 * [Medium](https://www.medium.com)
 
 
