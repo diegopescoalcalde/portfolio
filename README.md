@@ -5,7 +5,7 @@
 </p>
 
 # Diego Pesco Alcalde
-<sub>*Black Belt Mechanical Engineer and Data Scientist* </sub>
+<sub>*Mechanical Engineer, Six Sigma Black Belt and Data Scientist* </sub>
 
 As a experienced Engineer and Six Sigma Black Belt I combine analytical skills, ability to work in multicultural team environments, and an out-of-the-box thinking principle. Having spend the last years applying six sigma and design of experiments methodologies in product development real problems, I developed critical thinking and problem-solving skills.
 
