@@ -1,4 +1,4 @@
-[![author](https://img.shields.io/badge/author-diegopescoalcalde-red.svg)](https://www.linkedin.com/in/diego-pesco-alcalde-b914b422/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)]()
+[![author](https://img.shields.io/badge/author-diegopescoalcalde-red.svg)](https://www.linkedin.com/in/diegopesco/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)]()
 
 <p align="center">
   <img src="banner.png" >
@@ -21,7 +21,8 @@ My credentials include a Mechanical Engineer graduation in Federal University of
 
 ## Projects:
 
-* **Procedimento Experimental para a Realização de testes em Facebook Ads:** Em construção
+* **Business opportunities with Airbnb data in San Francisco (USA):** [Link](https://github.com/diegopescoalcalde/portfolio/blob/master/English_San_Francisco_Airbnb_Data_Analysis.ipynb)
+* **Analysis of Design of Experiments results using Python and Statistical Methods:** Ongoing
 
 ---
 
