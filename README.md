@@ -11,7 +11,7 @@ As a experienced Engineer and Six Sigma Black Belt I combine analytical skills, 
 
 My credentials include a Mechanical Engineer graduation in Federal University of Santa Catarina (UFSC), with scholarships and academic recognitions in University of California, Davis and in Sapienza University of Rome, as well as experience in product development, cost and quality optimization and strategic planning projects in India, Italy, Poland, United States and Brazil.
 
-**Background in:** Python, Machine Learning, Six Sigma, Design of Experiences and Product Development.
+**Background in:** Python, Machine Learning, Six Sigma, Design of Experiments and Product Development.
 
 **Links:**
 * [Blog]
