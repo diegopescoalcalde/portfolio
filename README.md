@@ -14,16 +14,15 @@ My credentials include a Mechanical Engineer graduation in Federal University of
 **Background in:** Python, Machine Learning, Six Sigma, Design of Experiments and Product Development.
 
 **Links:**
-* [Blog]
 * [LinkedIn](https://www.linkedin.com/in/diegopesco/)
-* [Medium](https://www.medium.com)
+* [Medium](https://medium.com/@dp.alcalde)
 
 
 ## Projects:
 
 * **Business opportunities with Airbnb data in San Francisco (USA):** [Link](https://github.com/diegopescoalcalde/portfolio/blob/master/English_San_Francisco_Airbnb_Data_Analysis.ipynb)
 * **How the increase of killings by Police officers impacts violence rates in Rio de Janeiro:** [Link](https://github.com/diegopescoalcalde/portfolio/blob/master/How_the_increase_of_killings_by_Police_officers_impacts_violence_rates_in_Rio_de_Janeiro.ipynb)
-* **Analysis of Design of Experiments results using Python and Statistical Methods:** Ongoing
+* **Custom Dashboard to Monitor COVID-19:** [Link](https://github.com/diegopescoalcalde/portfolio/blob/master/Custom_Dashboard_to_Monitor_COVID_19.ipynb)
 
 ---
 
